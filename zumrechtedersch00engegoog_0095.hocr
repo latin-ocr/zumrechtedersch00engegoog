@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zumrechtedersch00engegoog_0095.png"; bbox 0 0 3348 5248; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 774 2131 985 2194">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 774 2131 985 2194">
+     <span class='ocr_line' id='line_1_1' title="bbox 774 2131 985 2194; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 774 2131 985 2194; x_wconf 79' lang='lat' dir='ltr'><strong>Referent:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 586 2271 1169 2374">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 586 2271 1169 2374">
+     <span class='ocr_line' id='line_1_2' title="bbox 586 2271 1169 2374; baseline -0.019 -21"><span class='ocrx_word' id='word_1_2' title='bbox 586 2281 786 2374; x_wconf 75' lang='lat' dir='ltr'><em>Professor</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 813 2277 888 2349; x_wconf 80' lang='lat' dir='ltr'><strong>Dr.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 914 2275 1045 2346; x_wconf 73' lang='lat' dir='ltr'><em>Franz</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1073 2271 1169 2343; x_wconf 76' lang='lat' dir='ltr'><em>Bell.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 770 2414 979 2472">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 770 2414 979 2472">
+     <span class='ocr_line' id='line_1_3' title="bbox 770 2414 979 2472; baseline -0.072 -1"><span class='ocrx_word' id='word_1_6' title='bbox 770 2414 979 2472; x_wconf 53' lang='lat' dir='ltr'><strong>czxcffifabscafi</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1678 5248">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1678 5248">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1678 5248; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1678 5248; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
